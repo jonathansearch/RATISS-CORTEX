@@ -1,0 +1,17 @@
+{
+  "fichiers": {
+    "AGENT.md": 3511,
+    "HISTOIRE.md": 2248,
+    "IDENTITE.md": 5446,
+    "MODELES.md": 3469,
+    "README.md": 2087,
+    "api/REFERENCE.md": 3594,
+    "memoire/identite.json": 2706,
+    "verifier_attestation.py": 5708
+  },
+  "format": "ratiss-depot/1",
+  "genere_par": "RATISS CORTEX 0.5.0",
+  "routage_inclus": false,
+  "sceau_identite": "e85cf175afd3dd261de7eca41a283a4abda08d2cd27dbf45ba5d5b61d549b2d6",
+  "total_octets": 28769
+}
